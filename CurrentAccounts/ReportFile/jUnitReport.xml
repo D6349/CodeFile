@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.723656">
+<testcase classname="Customer can know the functionality of EQl current Accounts" name="Customer can know the different table of their accounts" time="13.723656">
+<system-out><![CDATA[Given Customer can login the EQL site.......................................passed
+When Customer enter their the creditinals of the page.......................passed
+And Customer click the login button.........................................passed
+And Customer can select the their prefered table............................passed
+And Customer can know the status of the applications........................passed
+]]></system-out>
+</testcase>
+</testsuite>

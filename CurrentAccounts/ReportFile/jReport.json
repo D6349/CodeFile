@@ -1,0 +1,84 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-03-04T11:35:20.816Z",
+        "line": 2,
+        "name": "Customer can know the different table of their accounts",
+        "description": "",
+        "id": "customer-can-know-the-functionality-of-eql-current-accounts;customer-can-know-the-different-table-of-their-accounts",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3854113300,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Customer can login the EQL site",
+            "match": {
+              "location": "StepDefinition.customer_can_login_the_EQL_site()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 419756700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Customer enter their the creditinals of the page",
+            "match": {
+              "location": "StepDefinition.customer_enter_their_the_creditinals_of_the_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7901761400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Customer click the login button",
+            "match": {
+              "location": "StepDefinition.customer_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1510007000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Customer can select the their prefered table",
+            "match": {
+              "location": "StepDefinition.customer_can_select_the_their_prefered_table()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3354700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Customer can know the status of the applications",
+            "match": {
+              "location": "StepDefinition.customer_can_know_the_status_of_the_applications()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Customer can know the functionality of EQl current Accounts",
+    "description": "",
+    "id": "customer-can-know-the-functionality-of-eql-current-accounts",
+    "keyword": "Feature",
+    "uri": "file:FeatureFiles/CurrentAccounts.feature",
+    "tags": []
+  }
+]
